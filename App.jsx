@@ -10,9 +10,6 @@ function App() {
     discography: 'https://www.kirksmgmt.com/stjohnpaull', 
     beatStore: 'https://www.beatstars.com/jayponthetrack', 
     instagram: 'https://www.instagram.com/st.johnpaull/',
-    twitter: 'https://twitter.com/johnpaull',
-    spotify: 'https://open.spotify.com/artist/your-artist-id',
-    soundcloud: 'https://soundcloud.com/johnpaull',
     email: 'mailto:st.johnpaullmusic@gmail.com'
   };
 

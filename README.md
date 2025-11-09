@@ -70,12 +70,32 @@ JP/
 
 - Modern glassmorphism design
 - Responsive layout (mobile-first)
-- Smooth animations
+- Smooth animations with enhanced glow effects
 - Dark overlay for readability
-- Social media integration
+- Social media integration with Material UI icons
 - Touch-optimized for mobile
 - Accessibility compliant
-- SEO optimized
+- **SEO Optimized** for St. John Paull
+  - Complete meta tags (title, description, keywords)
+  - Open Graph tags for social media sharing
+  - Twitter Card integration
+  - Image preloading for faster page loads
+  - Canonical URLs
+  - Structured data ready
+
+## Performance Optimization
+
+The background image is currently **936KB**. For faster page loads:
+
+1. **See OPTIMIZE.md** for detailed image compression instructions
+2. **Recommended**: Compress to 300-500KB using [Squoosh.app](https://squoosh.app)
+3. **Current optimizations applied**:
+   - Image preloading in HTML
+   - Fade-in animation for smoother appearance
+   - Fallback background color
+   - Optimized Vite build configuration
+
+Target load time: **< 2 seconds** on 3G
 
 ## Deployment
 
