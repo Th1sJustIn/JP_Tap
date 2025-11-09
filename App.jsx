@@ -14,7 +14,7 @@ function App() {
   };
 
   const handleLinkClick = (url) => {
-    window.open(url, '_blank', 'noopener,noreferrer');
+    window.open(url, '_blank');
   };
 
   return (
